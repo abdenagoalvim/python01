@@ -1,4 +1,4 @@
-# [Exercício 01 \(exerc01.py](./exerc01.py)\)
+# [Exercício 01 \(exerc01.py\)](./exerc01.py)
 
 Nesse exercício, seguindo a tradição, iremos escrever o código que toda pessa deve escrever quando está iniciando no aprendizado de uma linguagem de programação: "Hello Word". Esse programa deve escrever na tela a mensage "Hello Word" ou "Olá Mundo".
 
