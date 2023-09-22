@@ -1,7 +1,11 @@
 # Python - 01
 ## Lista de Exercícios de Python - 3o Ano
 Lista com exercícios básicos de Python que foram passados para os alunos do 3o ano do curso técnico de informática.
-Primeira lista de exercícios:
+
+Primeira lista de exercícios: 
+
+\(Clice no exercício para ver a descrição da solução. Clique no nome do arquivo \(*.py\) para ver a solução.\)
+
 - [Exercício 01](./src/exerc01.md) - \([exerc01.py](./src/exerc01.py)\)
     - Crie um programa, em Python, que escreva "Hello world" na tela.
 - [Exercício 02](./src/exerc02.md) - \([exerc02.py](./src/exerc02.py)\)
