@@ -1,4 +1,4 @@
-# Exercício 02 \(exerc02.py\)
+# [Exercício 02 \(exerc02.py\)](exerc02.py)
 
 > Faça um programa, em Python, que leia o nome do usuário e mostre a mensagem: "Olá, ***\<nome\>***!!!".
 
@@ -9,7 +9,7 @@ A entrada de dados por parte do usuário pode acontecer de várias formas: atrav
 Nesse exercício será usada a função `input()` que permite que o usuário digite os dados através do terminal. 
 
 ### Sintaxe da função `input()`
-```
+```python
 variavel = input('mensagem: ')
 ```
 
